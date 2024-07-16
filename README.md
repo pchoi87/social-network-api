@@ -31,7 +31,7 @@ GIVEN a social network API
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/social-network-api.git
+    git clone https://github.com/pchoi87/social-network-api.git
     ```
 2. Navigate to the project directory.
     ```bash
